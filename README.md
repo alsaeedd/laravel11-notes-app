@@ -1,4 +1,4 @@
-# Laravel 11 Notes App
+# Laravel 11 Notes App📝
 
 This is a simple notes application that allows users to sign up, log in, create, read, update, and delete notes on their own account. It employs proper backend best practices to only allow users to access and modify their own notes.
 
